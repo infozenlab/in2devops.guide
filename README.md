@@ -1,1 +1,1 @@
-# in2devops.guide.github.io
+# http://infozenlab.github.io/in2devops.guide/
